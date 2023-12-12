@@ -5,7 +5,7 @@
    
 3. I believe I could improve my code by perhaps using switch statements in place of every if expression. Additionally, the code appeared to be longer than needed.
    
-4. The project, in my opinion, was difficult, just like all the other assignments in this semester. To make ends meet, I had to spend a ton of time on Google, YouTube, and reading and rereading Zybooks. I don't think I will ever stop studying in my field; I am still learning.
+4. The project, in my opinion, was difficult, just like all the other assignments in this semester. To make ends meet, I had to spend a ton of time researching. I don't think I will ever stop studying in my field; I am still learning.
    
 5. I believe that this project improved my knowledge of functions and the combination of several functions. I am aware that functions are an essential component of programming, so I believe this knowledge will carry over to future projects and classes.
    
